@@ -1,4 +1,4 @@
-# Simple Blockchain Java Reference Implementation 
+# Simple Blockchain Java Reference Implementation & Github test
 
 This repo contains an example of a blockchain without a specific vendor written in Java.
 
